@@ -1,0 +1,22 @@
+{
+  "name": "tdd-lab-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "translate.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamifedrigo/TDD-Lab-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamifedrigo/TDD-Lab-1/issues"
+  },
+  "homepage": "https://github.com/tamifedrigo/TDD-Lab-1#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
